@@ -3,7 +3,7 @@ name: build trunk
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   check:
